@@ -18,4 +18,4 @@ $ pip install -r requirements.txt --system
 $ nohup python3 /opt/kubectx-gui/kubectx-gui.py &
 ```
 ## Demo
-
+![](https://github.com/achelak/kubectx-gui/blob/main/kx.gif)
