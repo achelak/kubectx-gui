@@ -11,7 +11,7 @@ The tool is based on the original **kubectx** shell application and is a sys tra
 $ cd /opt
 $ git clone https://github.com/achelak/kubectx-gui.git
 $ cd kubectx-gui
-$ pip install -r requirements.txt --system
+$ pip install -r requirements.txt
 ```
 2. Execute the kubectx-gui:
 ```sh
