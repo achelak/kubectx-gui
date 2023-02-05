@@ -8,14 +8,14 @@ The tool is based on the original **kubectx** shell application and is a sys tra
 ## Installation
 1. Clone the repo and install requirements:
 ```sh
-$ cd /opt
-$ git clone https://github.com/achelak/kubectx-gui.git
-$ cd kubectx-gui
-$ pip install -r requirements.txt
+cd /opt
+git clone https://github.com/achelak/kubectx-gui.git
+cd kubectx-gui
+pip install -r requirements.txt
 ```
 2. Execute the kubectx-gui:
 ```sh
-$ nohup python3 /opt/kubectx-gui/kubectx-gui.py &
+nohup python3 /opt/kubectx-gui/kubectx-gui.py &
 ```
 ## Demo
 ![](https://github.com/achelak/kubectx-gui/blob/main/kx.gif)
