@@ -1,5 +1,5 @@
 ## What is `kubectx-gui`?
-**kubectx-is** is a tool to switch between contexts (clusters) on kubectl faster. 
+**kubectx-gui** is a tool to switch between contexts (clusters) on kubectl faster. 
 The tool is based on the original **kubectx** shell application and is a sys tray application for switching between contexts using a GUI.
 ## Dependecies
 - installed python 3.X
