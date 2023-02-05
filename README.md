@@ -13,8 +13,9 @@ $ git clone https://github.com/achelak/kubectx-gui.git
 $ cd kubectx-gui
 $ pip install -r requirements.txt --system
 ```
-2. Execute the kubectx-gui
+2. Execute the kubectx-gui:
 ```sh
 $ nohup python3 /opt/kubectx-gui/kubectx-gui.py &
 ```
+## Demo
 
