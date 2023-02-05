@@ -3,7 +3,7 @@ from PIL import Image
 import subprocess
 import os
 
-icon = Image.open("kubectx-gui.png")
+icon = Image.open("/opt/kubectx-gui/kubectx-gui.png")
 
 
 def switch_context(icon, item):
